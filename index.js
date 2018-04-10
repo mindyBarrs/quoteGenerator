@@ -1,4 +1,4 @@
-var colorWheel = ["#1a3c34","#007485","#79eeff","	#b1f96d","#65076b","#bf47a8","#945ec3","#6660a7","#578eb0","#68d6d8"];
+var colorWheel = ["#1a3c34","#007485","#79eeff","#b1f96d","#65076b","#bf47a8","#945ec3","#6660a7","#578eb0","#68d6d8"];
 var quote = "";
 var autoer = "";
 
