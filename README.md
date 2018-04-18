@@ -5,4 +5,4 @@ bottom right corner to generate another random quote. There is also a button in 
 corner that will allow a user to tweet the random quote if they wanted to. Also the background color will
 change with every new quote generated. 
 
-### [Click Here To See It In Action](https://codepen.io/minbarrs/pen/xWmapZ/)
+### [Click Here To See It In Action](https://codepen.io/minbarrs/full/xWmapZ/)
